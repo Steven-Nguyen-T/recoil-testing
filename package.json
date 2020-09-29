@@ -10,7 +10,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.3",
-    "recoil": "0.0.13",
+    "recoil": "0.0.10",
     "recoilize": "^0.8.0"
   },
   "scripts": {
